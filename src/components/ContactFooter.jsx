@@ -25,7 +25,7 @@ function ContactFooter() {
             <li className="flex items-center gap-3">
               <FaEnvelope className="text-blue-500" />
               <a href="mailto:ipong@example.com" className="hover:underline">
-                adrianrizki7@gmail.com
+                adrianrizki67@gmail.com
               </a>
             </li>
             <li className="flex items-center gap-3">
