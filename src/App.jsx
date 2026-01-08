@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Education from "./components/Education";
@@ -8,6 +9,11 @@ import Projects from "./components/Projects";
 import ContactFooter from "./components/ContactFooter";
 
 function App() {
+  // Set page title
+  useEffect(() => {
+    document.title = "Adrian Rizki Maulana";
+  }, []);
+
   return (
     <div className="min-h-screen font-sans bg-white dark:bg-slate-900 transition-colors duration-300">
       <Navbar />
