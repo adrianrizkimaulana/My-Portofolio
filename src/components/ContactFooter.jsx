@@ -25,39 +25,39 @@ function ContactFooter() {
             <li className="flex items-center gap-3">
               <FaEnvelope className="text-blue-500" />
               <a href="mailto:ipong@example.com" className="hover:underline">
-                ipong@example.com
+                adrianrizki7@gmail.com
               </a>
             </li>
             <li className="flex items-center gap-3">
               <FaPhone className="text-green-500" />
               <a href="tel:+6281234567890" className="hover:underline">
-                +62 812 3456 7890
+                +62 857 2279 2480
               </a>
             </li>
             <li className="flex items-center gap-3">
               <FaMapMarkerAlt className="text-red-500" />
-              <span>Jakarta, Indonesia</span>
+              <span>Bandung, Indonesia</span>
             </li>
           </ul>
 
           {/* Social Media */}
           <div className="flex gap-6 mt-4 text-gray-700 dark:text-gray-300">
             <a
-              href="https://github.com/ipong"
+              href="https://github.com/adrianrizkimaulana"
               target="_blank"
               className="hover:text-gray-900 dark:hover:text-white transition"
             >
               <FaGithub className="text-2xl" />
             </a>
             <a
-              href="https://linkedin.com/in/ipong"
+              href="https://linkedin.com/in/adrian-rizki-maulana"
               target="_blank"
               className="hover:text-blue-700 transition"
             >
               <FaLinkedin className="text-2xl" />
             </a>
             <a
-              href="https://instagram.com/ipong"
+              href="https://instagram.com/adriaanrm__"
               target="_blank"
               className="hover:text-pink-500 transition"
             >
