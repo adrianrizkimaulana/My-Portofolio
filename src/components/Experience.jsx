@@ -71,9 +71,8 @@ function Experience() {
 
             <ul className="mt-6 space-y-3 text-gray-700 dark:text-gray-300 list-disc list-inside">
               <li>
-                Fullstack Developer - Magang: Mengembangkan aplikasi web Salon
-                Purigeulis mulai dari analisis kebutuhan hingga implementasi
-                sistem.
+                Mengembangkan aplikasi web Salon Purigeulis mulai dari analisis
+                kebutuhan hingga implementasi sistem.
               </li>
               <li>
                 Merancang alur sistem dan struktur database menggunakan UML dan
